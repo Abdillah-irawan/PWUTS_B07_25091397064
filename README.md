@@ -1,4 +1,4 @@
-# Sistem Informasi Absensi – Mahasiswa
+# Sistem Informasi Absensi
 
 ## Deskripsi
 Website Mahasiswa merupakan portal bagi mahasiswa untuk melihat informasi perkuliahan dan memantau kehadiran. Website ini memiliki tampilan yang sederhana dan menggunakan warna oranye serta krem untuk memberikan kesan yang menarik dan nyaman digunakan.
